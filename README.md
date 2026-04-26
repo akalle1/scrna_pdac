@@ -33,3 +33,6 @@ Peng et al. (2019) "Single-cell RNA-seq highlights intra-tumoral heterogeneity a
 - 12 clusters identified with Leiden algorithm
 - Tumor samples dominated by malignant ductal cells, CAFs, and macrophages
 - Normal samples dominated by non-malignant ductal and acinar cells
+
+## Notebook 1 - Results
+**[View full notebook with code and plots](https://nbviewer.org/github/akalle1/scrna_pdac/blob/master/data/01_QC_preprocessing.ipynb)
